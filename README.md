@@ -1,2 +1,3 @@
 # my-token
-this is a code containing mint function and burn function
+This is a solidity code containing mint function and burn function
+which are used to add and subtract tokens
